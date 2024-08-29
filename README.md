@@ -1,6 +1,6 @@
 [![MasterHead](https://www.vsit.in/full-stack/images/banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohan Mane</h1>
-<h3 align="center">"Reserch Intern @DIAT-DRDO | SSOC'23 | Interested in Cyber Security | Linux"
+<h3 align="center">Ex-Intern @DIAT-DRDO |"Cybersecurity Enthusiast with AIML Background | Dedicated to staying ahead of emerging threats through innovative AI solutions" | Linux
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrohanmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamrohanmane" /> </p>
