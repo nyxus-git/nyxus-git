@@ -1,29 +1,90 @@
-[![MasterHead](https://www.vsit.in/full-stack/images/banner.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rohan Mane</h1>
-<h3 align="center">Ex-Intern @DIAT-DRDO |"Cybersecurity Enthusiast with AIML Background | Dedicated to staying ahead of emerging threats through innovative AI solutions" | Linux
-</h3>
+<!-- Header with Profile Name and Tagline -->
+<h1 align="center">Hey there, I'm Nyxus 👋</h1>
+<h3 align="center">Developer | AI & Cyber Security Enthusiast | Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrohanmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamrohanmane" /> </p>
-
-<p align="left"> <a href="https://twitter.com/i_am_rohanmane" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_rohanmane?logo=twitter&style=for-the-badge" alt="i_am_rohanmane" /></a> </p>
-
-- 🌱 I’m currently learning **C++ / DSA**
-
-- 💬 Ask me about ****C** / **C++** / **TYPESCRIPT** / **GO** / **PYTHON** **
-
-- 📫 How to reach me ****rohanmane9841@gmail.com****
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_am_rohanmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_rohanmane" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/rohan-mane-2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rohan-mane-2020" height="30" width="40" /></a>
+<!-- Animated Image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrohanmane&show_icons=true&locale=en&layout=compact" alt="iamrohanmane" /></p>
+<!-- About Me Section -->
+### About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrohanmane&show_icons=true&locale=en" alt="iamrohanmane" /></p>
+- 🔭 I’m currently working on **AI-Defend – Unauthorized Access Detection System**  
+- 🌱 I’m learning **Cybersecurity and Deep Learning**
+- 💬 Ask me about **Linux, C, C++, Python, Rust, Assembly **
+- ⚡ Fun fact: Every Android device runs on a modified version of the Linux kernel, making Linux the most-used operating system on mobile devices!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrohanmane&" alt="iamrohanmane" /></p>
+---
+
+<!-- GitHub Stats and Languages -->
+### GitHub Stats
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nyxus-code&show_icons=true&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxus-code&layout=compact&theme=radical">
+</p>
+
+---
+
+<!-- Tools and Languages -->
+### Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS%20Flexbox-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grid-FFDD00?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Hardware-0078D6?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microprocessor-FF6F00?style=for-the-badge&logo=microchip&logoColor=white" />
+</p>
+
+---
+
+<!-- GitHub Contribution Graph -->
+### GitHub Activity
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=nyxus-code&theme=react-dark">
+</p>
+
+---
+
+<!-- Connect with Me Section -->
+### Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nyxus-code/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/Nyxus-code">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://dev.to/nyxus-code">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
+</p>
+---
+
+<!-- Footer Quote -->
+<p align="center">
+  "Building the future, one line of code at a time." 🚀
+</p>
