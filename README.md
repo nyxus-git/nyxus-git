@@ -74,7 +74,6 @@
     <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
 </p>
----
 
 <!-- Footer Quote -->
 <p align="center">
