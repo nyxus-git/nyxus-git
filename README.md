@@ -1,5 +1,5 @@
 <!-- Header with Profile Name and Tagline -->
-<h1 align="center">Hey there, I'm Nyxus 👋</h1>
+<h1 align="center">Hey there, I'm Rohan Mane 👋</h1>
 <h3 align="center">Developer | AI & Cyber Security Enthusiast | Open Source Contributor</h3>
 
 <!-- Animated Image -->
@@ -22,8 +22,8 @@
 <!-- GitHub Stats and Languages -->
 ### GitHub Stats
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nyxus-code&show_icons=true&theme=radical">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxus-code&layout=compact&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iamrohanmane&show_icons=true&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrohanmane&layout=compact&theme=radical">
 </p>
 
 ---
@@ -63,7 +63,7 @@
 <!-- GitHub Contribution Graph -->
 ### GitHub Activity
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nyxus-code&theme=react-dark">
+  <img src="https://activity-graph.herokuapp.com/graph?username=iamrohanamane&theme=react-dark">
 </p>
 
 ---
@@ -72,13 +72,13 @@
 ### Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nyxus-code/">
+  <a href="https://www.linkedin.com/in/iamrohanmane/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/Nyxus-code">
+  <a href="https://twitter.com/iamrohanmane">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://dev.to/nyxus-code">
+  <a href="https://dev.to/imarohanmane">
     <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
 </p>
