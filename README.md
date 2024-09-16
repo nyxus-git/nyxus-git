@@ -61,7 +61,8 @@
 ---
 
 <!-- GitHub Contribution Graph -->
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamrohanamane)
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=iamrohanamane&show_icons=true&theme=react-dark)
+
 
 ---
 
