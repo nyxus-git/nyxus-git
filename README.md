@@ -61,10 +61,7 @@
 ---
 
 <!-- GitHub Contribution Graph -->
-### GitHub Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=iamrohanamane&theme=react-dark">
-</p>
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamrohanamane)
 
 ---
 
