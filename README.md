@@ -60,12 +60,6 @@
 
 ---
 
-<!-- GitHub Contribution Graph -->
-![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=iamrohanamane&show_icons=true&theme=react-dark)
-
-
----
-
 <!-- Connect with Me Section -->
 ### Connect with Me
 
