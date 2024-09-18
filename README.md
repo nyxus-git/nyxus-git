@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **AI-Defend – Unauthorized Access Detection System**  
 - 🌱 I’m learning **Cybersecurity and Deep Learning**
-- 💬 Ask me about **Linux, C, C++, Python, Rust, Assembly **
+- 💬 Ask me about **Linux, C, C++, Python, Assembly **
 - ⚡ Fun fact: Every Android device runs on a modified version of the Linux kernel, making Linux the most-used operating system on mobile devices!
 
 ---
