@@ -1,6 +1,6 @@
 <!-- Header with Profile Name and Tagline -->
 <h1 align="center">Hey there, I'm Rohan Mane 👋</h1>
-<h3 align="center">Developer | AI & Cyber Security Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Developer | Aspiring Machine Learning Engineer| Open Source Contributor</h3>
 
 <!-- Animated Image -->
 <p align="center">
@@ -12,8 +12,8 @@
 <!-- About Me Section -->
 ### About Me
 
-- 🔭 I’m currently working on **AI-Defend – Unauthorized Access Detection System** **&** **AI-Driven - Crime Detection system using deep learning**
-- 🌱 I’m learning **Cybersecurity and Deep Learning**
+- 🔭 I’m currently working on **AI-Driven - Crime Detection system using deep learning**
+- 🌱 I’m learning **Aspiring Machine Learning Engineer**
 - 💬 Ask me about **Linux, C, C++, Python, Assembly**
 - ⚡ Fun fact: Every Android device runs on a modified version of the Linux kernel, making Linux the most-used operating system on mobile devices!
 
