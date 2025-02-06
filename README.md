@@ -15,7 +15,8 @@
 - 🔭 I’m currently working on **AI-Driven - Crime Detection system using deep learning**
 - 🌱 I’m learning **Aspiring Machine Learning Engineer**
 - 💬 Ask me about **Linux, C, C++, Python, Assembly**
-- ⚡ Fun fact: Every Android device runs on a modified version of the Linux kernel, making Linux the most-used operating system on mobile devices!
+- 🔥 **Fun Fact:** The command `:(){ :|:& };:` is called the **"fork bomb"**—it can crash your system by endlessly spawning processes! Use with caution! 😆🐧
+
 
 ---
 
