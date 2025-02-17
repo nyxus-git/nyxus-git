@@ -14,8 +14,8 @@
 
 - 🔭 I’m currently working on **AI-Driven Crime Detection System using Deep Learning**
 - 🌱 I’m learning **Machine Learning, AI, and Cloud Computing**
-- 💬 Ask me about **Linux, C, C++, Python, Assembly**
-- 🧠 Exploring **AI, Security, and Ethical Hacking**
+- 💬 Ask me about **Linux,Python,Web development**
+- 🧠 Exploring **AI,Machine Learning, NLP, Computer Vision**
 - ⚡ **Fun Fact:** The command `:(){ :|:& };:` is called the **"fork bomb"**—it can crash your system by endlessly spawning processes! Use with caution! 😆🐧
 
 ---
