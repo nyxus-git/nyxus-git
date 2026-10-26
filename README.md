@@ -75,26 +75,6 @@
   </tr>
 </table>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="62%" valign="top">
-      <h3>🚀 <code>./deploy_intelligence.sh</code></h3>
-      <p>
-        I engineer production-grade AI systems that bridge deep learning research with low-latency, real-world execution. From orchestrating <b>autonomous LLM agents</b> to deploying <b>real-time computer vision</b> pipelines, I love building software that thinks and sees.
-      </p>
-      <ul>
-        <li>🔭 <b>Production Focus:</b> Architecting GenAI chatbots, automated resume/document intelligence, and real-time video threat detection</li>
-        <li>🧠 <b>LLM &amp; RAG Stack:</b> LangChain, Google Gemini API, Vector DBs, Structured Outputs (Pydantic) &amp; Agentic Workflows</li>
-        <li>👁️ <b>Vision Systems:</b> Custom YOLOv8 training, OpenCV stream processing &amp; spatio-temporal anomaly recognition</li>
-        <li>💬 <b>Ping me about:</b> <code>FastAPI</code> • <code>LangChain</code> • <code>YOLOv8</code> • <code>Azure</code> • <code>Arch/Hyprland Ricing</code></li>
-      </ul>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Banner" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8B5CF6&height=2&section=header" width="100%" alt="Divider" />
 </p>
