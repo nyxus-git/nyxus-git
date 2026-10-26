@@ -28,33 +28,65 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8B5CF6&height=2&section=header" width="100%" alt="Divider" />
 </p>
 
-<!-- ===================== SYSTEM PROFILE (TERMINAL + BIO) ===================== -->
-<h2 align="center">⚡ <code>whoami</code> // System Profile</h2>
+<!-- ===================== SYSTEM PROFILE (LINUX TERMINAL) ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1&pause=100000&color=00F0FF&center=true&vCenter=true&repeat=false&width=600&height=45&lines=%E2%9A%A1+SYSTEM_PROFILE+%2F%2F+TERMINAL" alt="System Profile Header" />
+</div>
 
+<table align="center" width="100%">
+  <tr>
+    <td>
+      <p align="left">
+        🔴 🟡 🟢 &nbsp;&nbsp;<code><b>zsh — rohan@archlinux: ~ (hyprland) — 120×38</b></code>
+      </p>
 <pre>
-<b>rohan@archlinux</b>:<b>~</b>$ cat profile.yaml
-name: "Rohan Mane"
-role: "Machine Learning Engineer & GenAI Developer"
-environment: "Arch Linux (Hyprland) // Python // FastAPI // Azure"
-current_focus:
-  - "Production GenAI Apps, Multi-Agent Workflows & RAG Architectures"
-  - "AI-Driven Real-Time Crime & Weapon Detection (YOLOv8 + Deep Learning)"
-  - "Low-Latency Edge AI & Hardware Security / Defense Tech"
-fun_fact: "Executing :(){ :|:& };: (fork bomb) spawns processes until your kernel panics. Use wisely! 🤯"
+<b>┌──(</b><b>rohan㉿archlinux</b><b>)-[</b><b>~</b><b>]</b>
+<b>└─$</b> neofetch --ascii_distro arch_small
+
+       <b>/\</b>          <b>rohan</b>@<b>archlinux</b>
+      <b>/  \</b>         -----------------
+     <b>/\   \</b>        <b>OS</b>: Arch Linux x86_64
+    <b>/      \</b>       <b>WM</b>: Hyprland (Wayland)
+   <b>/   ,,   \</b>      <b>Role</b>: Machine Learning Engineer &amp; GenAI Architect
+  <b>/   |  |  -\</b>     <b>Shell</b>: zsh 5.9 // tmux
+ <b>/_-''    ''-_\</b>    <b>Uptime</b>: 99.9% Coffee-Driven Inference
+
+<b>┌──(</b><b>rohan㉿archlinux</b><b>)-[</b><b>~/workspace</b><b>]</b>
+<b>└─$</b> cat ./neural_config.json
+{
+  "<b>developer</b>": "Rohan Mane",
+  "<b>specialization</b>": [
+    "Generative AI &amp; Autonomous LLM Agents",
+    "Real-Time Computer Vision (YOLOv8 / OpenCV)",
+    "Scalable AI Microservices (FastAPI / Docker / Azure)"
+  ],
+  "<b>current_daemons</b>": {
+    "<b>vision_engine</b>": "AI-Driven Crime &amp; Threat Detection [ACTIVE]",
+    "<b>genai_pipeline</b>": "Multi-Modal RAG &amp; Document Intelligence [RUNNING]",
+    "<b>research_threads</b>": ["Edge AI Optimization", "Defense Tech", "TPM Security"]
+  },
+  "<b>kernel_warning</b>": "Executing :(){ :|:&amp; };: triggers a fork bomb. Handle with care! 🤯"
+}
+
+<b>┌──(</b><b>rohan㉿archlinux</b><b>)-[</b><b>~/workspace</b><b>]</b>
+<b>└─$</b> <kbd>█</kbd>
 </pre>
+    </td>
+  </tr>
+</table>
 
 <table align="center" width="100%">
   <tr>
     <td width="62%" valign="top">
-      <h3>🚀 Engineering Intelligent Systems</h3>
+      <h3>🚀 <code>./deploy_intelligence.sh</code></h3>
       <p>
-        I'm a <b>Machine Learning Engineer</b> focused on taking cutting-edge AI from research to scalable production. My work spans <b>Generative AI</b>, <b>Computer Vision</b>, and high-performance <b>Python Backends</b>.
+        I engineer production-grade AI systems that bridge deep learning research with low-latency, real-world execution. From orchestrating <b>autonomous LLM agents</b> to deploying <b>real-time computer vision</b> pipelines, I love building software that thinks and sees.
       </p>
       <ul>
-        <li>🔭 <b>Current Work:</b> Building LLM-powered applications, automated document/resume intelligence pipelines, and real-time computer vision systems</li>
-        <li>🧠 <b>GenAI Stack:</b> LangChain, Google Gemini API, OpenAI, Agentic Workflows, Vector Databases & Prompt Engineering</li>
-        <li>👁️ <b>Computer Vision:</b> Real-Time Crime & Weapon Detection using YOLOv8, OpenCV, and PyTorch</li>
-        <li>💬 <b>Ask me about:</b> FastAPI, LangChain, YOLOv8, Docker, Azure & Linux ricing</li>
+        <li>🔭 <b>Production Focus:</b> Architecting GenAI chatbots, automated resume/document intelligence, and real-time video threat detection</li>
+        <li>🧠 <b>LLM &amp; RAG Stack:</b> LangChain, Google Gemini API, Vector DBs, Structured Outputs (Pydantic) &amp; Agentic Workflows</li>
+        <li>👁️ <b>Vision Systems:</b> Custom YOLOv8 training, OpenCV stream processing &amp; spatio-temporal anomaly recognition</li>
+        <li>💬 <b>Ping me about:</b> <code>FastAPI</code> • <code>LangChain</code> • <code>YOLOv8</code> • <code>Azure</code> • <code>Arch/Hyprland Ricing</code></li>
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
@@ -139,32 +171,73 @@ fun_fact: "Executing :(){ :|:& };: (fork bomb) spawns processes until your kerne
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8B5CF6&height=2&section=header" width="100%" alt="Divider" />
 </p>
 
-<!-- ===================== FEATURED ARCHITECTURES ===================== -->
-<h2 align="center">🔬 Featured Architectures & Focus</h2>
+<!-- ===================== FEATURED ARCHITECTURES & FOCUS ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1&pause=100000&color=00F0FF&center=true&vCenter=true&repeat=false&width=700&height=45&lines=%F0%9F%94%AC+FEATURED_ARCHITECTURES+%26+FOCUS" alt="Featured Architectures Header" />
+  <p><i><code>[ Core Systems, Neural Pipelines &amp; Applied AI Engineering ]</code></i></p>
+</div>
 
 <table align="center" width="100%">
   <tr>
+    <!-- CARD 1: COMPUTER VISION -->
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ AI-Driven Crime & Threat Detection</h3>
-      <p align="center">
-        <i>Real-Time Weapon & Anomaly Recognition Pipeline</i>
-      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/DOMAIN-COMPUTER_VISION_%26_DEFENSE_TECH-00F0FF?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" alt="CV Domain" />
+        <h3>🛡️ AI-Driven Crime &amp; Threat Detection</h3>
+        <code>Real-Time Weapon &amp; Anomaly Recognition Engine</code>
+      </div>
+      <hr/>
+      <pre>
+[RTSP Stream] ──► [OpenCV Frame Buffer]
+                       │
+                       ▼
+              [Custom YOLOv8 Engine]
+                       │
+          ┌────────────┴────────────┐
+          ▼                         ▼
+[FastAPI Async Alert]     [Threat Classification]
+      </pre>
       <ul>
-        <li><b>Vision Engine:</b> Real-time video stream inference using custom-trained <b>YOLOv8</b> & OpenCV.</li>
-        <li><b>High-Speed Backend:</b> Asynchronous <b>FastAPI + Uvicorn</b> architecture for low-latency alerts.</li>
-        <li><b>Edge & Defense Ready:</b> Designed for automated surveillance intelligence and rapid threat response.</li>
+        <li><kbd>Vision Core</kbd> Multi-stream real-time video inference using custom-trained <b>YOLOv8</b> &amp; <b>OpenCV</b> for weapon and violence detection.</li>
+        <li><kbd>Low-Latency API</kbd> Asynchronous <b>FastAPI + Uvicorn</b> backend streaming instant bounding-box telemetry and webhook alerts.</li>
+        <li><kbd>Edge &amp; Defense</kbd> Engineered for high-throughput surveillance environments and rapid automated threat response.</li>
       </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/YOLOv8-0D1117?style=flat-square&logo=ultralytics&logoColor=00F0FF" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=8B5CF6" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+      </p>
     </td>
+    <!-- CARD 2: GENERATIVE AI -->
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Applied Generative AI & LLM Systems</h3>
-      <p align="center">
-        <i>Agentic Workflows, RAG & Interactive AI Platforms</i>
-      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/DOMAIN-GENERATIVE_AI_%26_LLM_AGENTS-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0D1117" alt="GenAI Domain" />
+        <h3>🤖 Autonomous GenAI &amp; RAG Systems</h3>
+        <code>Agentic Workflows, Document AI &amp; Interactive Platforms</code>
+      </div>
+      <hr/>
+      <pre>
+[User / Docs] ──► [Embeddings + Vector DB]
+                       │
+                       ▼
+            [LangChain Orchestrator]
+                       │
+          ┌────────────┴────────────┐
+          ▼                         ▼
+[Gemini / OpenAI LLM]     [Pydantic Schema Output]
+      </pre>
       <ul>
-        <li><b>LLM Orchestration:</b> Building structured GenAI backends with <b>LangChain, Gemini API, and Pydantic</b>.</li>
-        <li><b>RAG & Document AI:</b> Intelligent parsing, semantic search, and automated evaluation pipelines.</li>
-        <li><b>Full-Stack Integration:</b> Containerized microservices deployed with <b>Docker, PostgreSQL & Azure</b>.</li>
+        <li><kbd>LLM Orchestration</kbd> Context-aware generative pipelines powered by <b>LangChain</b>, <b>Google Gemini API</b>, and strict <b>Pydantic</b> validation.</li>
+        <li><kbd>RAG &amp; Doc Intelligence</kbd> Automated resume/document parsing, semantic vector retrieval, and multi-turn conversational memory.</li>
+        <li><kbd>Cloud Native</kbd> Containerized microservices deployed with <b>Docker</b>, <b>PostgreSQL</b>, and <b>Microsoft Azure</b> CI/CD workflows.</li>
       </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=00F0FF" alt="LangChain" />
+        <img src="https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=googlegemini&logoColor=8B5CF6" alt="Gemini API" />
+        <img src="https://img.shields.io/badge/Pydantic-0D1117?style=flat-square&logo=pydantic&logoColor=E92063" alt="Pydantic" />
+        <img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=0078D4" alt="Azure" />
+      </p>
     </td>
   </tr>
 </table>
