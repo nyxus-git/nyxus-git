@@ -190,9 +190,12 @@ fun_fact: "Executing :(){ :|:& };: (fork bomb) spawns processes until your kerne
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxus-git&bg_color=0D1117&color=00F0FF&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=00F0FF&hide_border=true&radius=12&custom_title=Neural%20Contribution%20Activity" width="98%" alt="GitHub Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyxus-git&theme=tokyonight" width="98%" alt="GitHub Contribution Graph" />
 </div>
 
+<br/>
+
+<!-- Snake Animation (Will appear once .github/workflows/snake.yml finishes running) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/nyxus-git/nyxus-git/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
