@@ -170,72 +170,71 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8B5CF6&height=2&section=header" width="100%" alt="Divider" />
 </p>
-
 <!-- ===================== FEATURED ARCHITECTURES & FOCUS ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1&pause=100000&color=00F0FF&center=true&vCenter=true&repeat=false&width=700&height=45&lines=%F0%9F%94%AC+FEATURED_ARCHITECTURES+%26+FOCUS" alt="Featured Architectures Header" />
-  <p><i><code>[ Core Systems, Neural Pipelines &amp; Applied AI Engineering ]</code></i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1&pause=100000&color=00F0FF&center=true&vCenter=true&repeat=false&width=700&height=45&lines=%F0%9F%94%AC+GEN_AI_ARCHITECTURES+%26+FOCUS" alt="GenAI Architectures Header" />
+  <p><i><code>[ Autonomous Agents, RAG Pipelines &amp; Production LLM Engineering ]</code></i></p>
 </div>
 
 <table align="center" width="100%">
   <tr>
-    <!-- CARD 1: COMPUTER VISION -->
+    <!-- CARD 1: AGENTIC AI & LLM ORCHESTRATION -->
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/DOMAIN-COMPUTER_VISION_%26_DEFENSE_TECH-00F0FF?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" alt="CV Domain" />
-        <h3>🛡️ AI-Driven Crime &amp; Threat Detection</h3>
-        <code>Real-Time Weapon &amp; Anomaly Recognition Engine</code>
+        <img src="https://img.shields.io/badge/ARCHITECTURE-AGENTIC_WORKFLOWS_%26_LLMS-00F0FF?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0D1117" alt="Agentic AI" />
+        <h3>🧠 Autonomous LLM Agents &amp; Orchestration</h3>
+        <code>Multi-Step Reasoning, Tool-Calling &amp; Structured Generation</code>
       </div>
       <hr/>
       <pre>
-[RTSP Stream] ──► [OpenCV Frame Buffer]
-                       │
-                       ▼
-              [Custom YOLOv8 Engine]
-                       │
-          ┌────────────┴────────────┐
-          ▼                         ▼
-[FastAPI Async Alert]     [Threat Classification]
+[User Prompt] ──► [LangChain Agent Router]
+                        │
+         ┌──────────────┼──────────────┐
+         ▼              ▼              ▼
+  [Tool Calling]  [Memory State] [Gemini / OpenAI]
+         └──────────────┼──────────────┘
+                        ▼
+           [Pydantic Validated Output]
       </pre>
       <ul>
-        <li><kbd>Vision Core</kbd> Multi-stream real-time video inference using custom-trained <b>YOLOv8</b> &amp; <b>OpenCV</b> for weapon and violence detection.</li>
-        <li><kbd>Low-Latency API</kbd> Asynchronous <b>FastAPI + Uvicorn</b> backend streaming instant bounding-box telemetry and webhook alerts.</li>
-        <li><kbd>Edge &amp; Defense</kbd> Engineered for high-throughput surveillance environments and rapid automated threat response.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/YOLOv8-0D1117?style=flat-square&logo=ultralytics&logoColor=00F0FF" alt="YOLOv8" />
-        <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=8B5CF6" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-      </p>
-    </td>
-    <!-- CARD 2: GENERATIVE AI -->
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/DOMAIN-GENERATIVE_AI_%26_LLM_AGENTS-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0D1117" alt="GenAI Domain" />
-        <h3>🤖 Autonomous GenAI &amp; RAG Systems</h3>
-        <code>Agentic Workflows, Document AI &amp; Interactive Platforms</code>
-      </div>
-      <hr/>
-      <pre>
-[User / Docs] ──► [Embeddings + Vector DB]
-                       │
-                       ▼
-            [LangChain Orchestrator]
-                       │
-          ┌────────────┴────────────┐
-          ▼                         ▼
-[Gemini / OpenAI LLM]     [Pydantic Schema Output]
-      </pre>
-      <ul>
-        <li><kbd>LLM Orchestration</kbd> Context-aware generative pipelines powered by <b>LangChain</b>, <b>Google Gemini API</b>, and strict <b>Pydantic</b> validation.</li>
-        <li><kbd>RAG &amp; Doc Intelligence</kbd> Automated resume/document parsing, semantic vector retrieval, and multi-turn conversational memory.</li>
-        <li><kbd>Cloud Native</kbd> Containerized microservices deployed with <b>Docker</b>, <b>PostgreSQL</b>, and <b>Microsoft Azure</b> CI/CD workflows.</li>
+        <li><kbd>Agentic Engines</kbd> Designing autonomous, multi-turn AI agents capable of dynamic tool execution, planning, and self-correction using <b>LangChain</b>.</li>
+        <li><kbd>Type-Safe LLMs</kbd> Enforcing deterministic, production-ready JSON schemas and structured outputs with <b>Pydantic</b> and <b>Google Gemini / OpenAI APIs</b>.</li>
+        <li><kbd>Interactive GenAI</kbd> Building real-time streaming chat and dynamic narrative/content generation engines with low-latency token delivery.</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=00F0FF" alt="LangChain" />
         <img src="https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=googlegemini&logoColor=8B5CF6" alt="Gemini API" />
+        <img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00F0FF" alt="OpenAI" />
         <img src="https://img.shields.io/badge/Pydantic-0D1117?style=flat-square&logo=pydantic&logoColor=E92063" alt="Pydantic" />
+      </p>
+    </td>
+    <!-- CARD 2: RAG & DOCUMENT INTELLIGENCE -->
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/ARCHITECTURE-ADVANCED_RAG_%26_DOC_AI-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0D1117" alt="RAG Architecture" />
+        <h3>📚 Advanced RAG &amp; Document Intelligence</h3>
+        <code>Semantic Retrieval, Vector Indexing &amp; Scalable Microservices</code>
+      </div>
+      <hr/>
+      <pre>
+[Docs / Resumes] ──► [Chunking + Embeddings]
+                           │
+                           ▼
+              [Vector DB: Chroma / Pinecone]
+                           │
+          ┌────────────────┴────────────────┐
+          ▼                                 ▼
+[Hybrid Semantic Search]         [FastAPI + Azure Cloud]
+      </pre>
+      <ul>
+        <li><kbd>Context-Aware RAG</kbd> High-precision retrieval pipelines utilizing dense embeddings, semantic chunking, and vector stores (<b>ChromaDB / Pinecone</b>).</li>
+        <li><kbd>Document &amp; Resume AI</kbd> Automated extraction, parsing, and intelligent evaluation of unstructured PDFs and enterprise knowledge bases.</li>
+        <li><kbd>Cloud-Native Backend</kbd> Asynchronous <b>FastAPI + Uvicorn</b> microservices containerized with <b>Docker</b>, <b>PostgreSQL</b>, and deployed on <b>Microsoft Azure</b>.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=databricks&logoColor=FF6B6B" alt="ChromaDB" />
+        <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
         <img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=0078D4" alt="Azure" />
       </p>
     </td>
