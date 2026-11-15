@@ -168,9 +168,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyxus-git&theme=tokyonight" width="98%" alt="GitHub Contribution Graph" />
-</div>
+</div> -->
 
 <br/>
 
