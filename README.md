@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:8B5CF6,100:0D1117&height=200&section=header&text=ROHAN%20MANE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20ML%20Engineer%20%7C%20GenAI%20Architect%20%7C%20Computer%20Vision&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
 </div>
 
+
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
   <a href="https://github.com/nyxus-git">
