@@ -156,8 +156,8 @@
 <h2 align="center">📈 Telemetry & GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nyxus-git&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8B5CF6&text_color=C9D1D9&ring_color=00F0FF&border_radius=12" alt="Rohan's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nyxus-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=12" alt="Top Languages" />
+ <img height="180" src="https://github-readme-stats.vercel.app/api?username=nyxus-git&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8B5CF6&text_color=C9D1D9&ring_color=00F0FF&border_radius=12" alt="Rohan's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxus-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=12" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -168,9 +168,9 @@
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyxus-git&theme=tokyonight" width="98%" alt="GitHub Contribution Graph" />
-</div> -->
+</div>
 
 <br/>
 
