@@ -174,6 +174,7 @@
 
 <br/>
 
+
 <!-- Snake Animation (Will appear once .github/workflows/snake.yml finishes running) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/nyxus-git/nyxus-git/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
